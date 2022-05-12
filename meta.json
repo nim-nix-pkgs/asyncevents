@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/tulayang/asyncevents",
   "refs": [
-    "fatal: unable to access 'https://github.com/tulayang/asyncevents/': OpenSSL SSL_read: Network is unreachable, errno 101",
+    "fatal: credential helper '!printf quit=1' told us to quit",
     ""
   ],
   "heads": []
